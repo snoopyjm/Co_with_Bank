@@ -13,6 +13,9 @@ def subtraction(n1, n2):
     return n1- n2
 
 def test():
+    print('eiei')
+
+def test():
     print("bb")
 
 main(int(input()), int(input()))
